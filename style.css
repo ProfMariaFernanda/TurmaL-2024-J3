@@ -19,9 +19,7 @@ header{
     text-align: center;
     margin: 30px;
 }
-img{
-    height: 200px;
-}
+
 .categoria-videos{
     display: flex;
     overflow-x: auto;
@@ -37,4 +35,14 @@ h2{
 }
 p{
     font-size: 20px;
+}
+
+.categoria-videos img{
+    height: 200px;
+    opacity: 0.5;
+}
+
+.categoria-videos img:hover {
+    border: 2px solid white;
+    opacity: 1.0;
 }
