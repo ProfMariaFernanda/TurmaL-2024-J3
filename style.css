@@ -18,6 +18,9 @@ header{
     font-size: 25px;
     text-align: center;
     margin: 30px;
+<<<<<<< HEAD
+} 
+=======
 }
 
 .categoria-videos{
@@ -43,6 +46,8 @@ p{
 }
 
 .categoria-videos img:hover {
-    border: 2px solid white;
+    border: 5px solid white 5;
     opacity: 1.0;
 }
+
+>>>>>>> 7d58769ebaa69882ff933975de1f5f068c104769
